@@ -16,6 +16,7 @@
   <img align="center" alt="Otav-c" height="30" width="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Otav-Csharp" height="30" width="" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
    <img align="center" alt="Otav-Csharp" height="30" width="" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img src="http://www.w3.org/html/logo/badge/html5-badge-v-connectivity-css3-device-graphics-multimedia-performance-semantics-storage.png" width="38" height="330">
     </div>
 
 ### Redes e Contatos 
